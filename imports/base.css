@@ -368,6 +368,9 @@ DIV.txtarea TEXTAREA, INPUT.longinput {WIDTH: 100%}
 	white-space: nowrap;
 }
 
+.clearl {
+	clear: left;
+}
 
 .pun .multiselect {
 	float: left;
@@ -386,7 +389,6 @@ DIV.txtarea TEXTAREA, INPUT.longinput {WIDTH: 100%}
 	background: #fff;
 	border: 1px solid #B4BAC0;
 }
-
 
 .pun .checklist legend {
 	padding: 0;
